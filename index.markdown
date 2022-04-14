@@ -11,6 +11,6 @@ layout: home
 }
 </style>
 <br>
-<img class="center-img" src="/logo.png" alt="MarineGEO circle logo" style="height: 50%; width:50%;"/>
+<img class="center-img" src="logo.png" alt="MarineGEO circle logo" style="height: 50%; width:50%;"/>
 <br>
 Добро пожаловать, это CryptDocs -- сборник инструкций, прочитав который вы научитесь шифровать информацию, безопасно передавать информацию другому человеку и получите базовые знания в криптографии.
