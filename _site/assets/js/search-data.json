@@ -7,9 +7,9 @@
   },"1": {
     "doc": "Crypts",
     "title": "Crypts",
-    "content": "CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
-    "url": "http://localhost:4000/Crypts/utilities",
-    "relUrl": "/utilities"
+    "content": " ",
+    "url": "http://localhost:4000/Crypts/encryption",
+    "relUrl": "/encryption"
   },"2": {
     "doc": "Главная",
     "title": "Главная",
